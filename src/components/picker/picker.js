@@ -1,7 +1,7 @@
 import React from 'react'
 import {StyleSheet, View} from 'react-native'
 
-import data from '../../../data/all.json'
+import data from '../../../data/fr/all.json'
 import NimblePicker from './nimble-picker'
 
 import {PickerPropTypes} from '../../utils/shared-props'
