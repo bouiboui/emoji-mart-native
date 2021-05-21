@@ -1,7 +1,7 @@
 import NimbleEmojiIndex from '../nimble-emoji-index.js'
 import store from '../../store'
 
-import data from '../../../../data/fr/all'
+import data from '../../../../data/all'
 
 const nimbleEmojiIndex = new NimbleEmojiIndex(data)
 

@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 import {StyleSheet, Modal, View, TouchableWithoutFeedback} from 'react-native'
 
-import data from '../../../data/fr/all.json'
+import data from '../../../data/all.json'
 import NimblePicker from './nimble-picker'
 
 import {PickerPropTypes} from '../../utils/shared-props'
